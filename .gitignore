@@ -12,6 +12,7 @@ env/
 
 # Models
 *.pkl
+!models/model.pkl
 
 # Data — keep folder, ignore CSVs
 data/*.csv
