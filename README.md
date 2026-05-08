@@ -5,6 +5,12 @@ lag, rolling, cyclical, and holiday features is trained on historical
 weekly sales (Feb 2010 – Oct 2012) and served through a Streamlit app
 that takes a CSV upload and returns predicted weekly sales per store.
 
+## Demo
+
+[![Streamlit app demo](https://cdn.loom.com/sessions/thumbnails/2374715778b549bfab8523f8e4fe7421-with-play.gif)](https://www.loom.com/share/2374715778b549bfab8523f8e4fe7421)
+
+▶ [Watch the Streamlit app demo on Loom](https://www.loom.com/share/2374715778b549bfab8523f8e4fe7421)
+
 ## Reported metrics
 
 Trained on 4,905 rows after the warm-up drop (`date < 2012-06-01`); held-out
