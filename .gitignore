@@ -31,3 +31,6 @@ Thumbs.db
 
 # Scripts (excluded from repo)
 scripts/
+
+# Claude Code local config
+.claude/
